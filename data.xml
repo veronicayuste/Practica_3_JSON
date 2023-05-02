@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <supermercados>
+    <supermercadoA>
+      <nombre>Supersol</nombre>
+      <direccion>Calle San lazaro, 17, 15203, Cordoba.</direccion>
+      <geolocalizacion>41º 24&apos;12.2 N</geolocalizacion>
+      <geolocalizacion>2º10&apos;26.5 E</geolocalizacion>
+      <lugar>Córdoba</lugar>
+    </supermercadoA>
+    <supermercadoA>
+      <seccion>fruteria</seccion>
+      <productos>
+        <nombre>tomate rama</nombre>
+        <descripcion>tomate rama huerta Murcia</descripcion>
+        <origen>España</origen>
+        <perecedero>true</perecedero>
+        <unidadMedida>kg</unidadMedida>
+        <precioVta>3.27</precioVta>
+        <fechaEntrada>23/03/2023 17:00 p.m.</fechaEntrada>
+        <oferta>true</oferta>
+        <periodo>
+          <inicio>23/03/2023</inicio>
+          <fin>27/03/2023</fin>
+        </periodo>
+        <habitual>true</habitual>
+        <cantidad>2</cantidad>
+        <adquirido>true</adquirido>
+      </productos>
+      <productos>
+        <nombre>pera conferencia</nombre>
+        <descripcion>pera conferencia origen Bierzo</descripcion>
+        <origen>España</origen>
+        <perecedero>true</perecedero>
+        <unidadMedida>kg</unidadMedida>
+        <precioVta>2.1</precioVta>
+        <fechaEntrada>23/03/2023 17:00 p.m.</fechaEntrada>
+        <oferta>false</oferta>
+        <periodo/>
+        <habitual>true</habitual>
+        <adquirido>false</adquirido>
+      </productos>
+    </supermercadoA>
+    <supermercadoA>
+      <seccion>pescaderia</seccion>
+      <productos>
+        <nombre>pescadilla</nombre>
+        <descripcion>pescadilla mar del norte</descripcion>
+        <origen>Noruega</origen>
+        <perecedero>true</perecedero>
+        <unidadMedida>kg</unidadMedida>
+        <precioVta>7.27</precioVta>
+        <fechaEntrada>23/03/2023 17:00 p.m.</fechaEntrada>
+        <oferta>false</oferta>
+        <periodo/>
+        <habitual>true</habitual>
+        <adquirido>false</adquirido>
+      </productos>
+      <productos>
+        <nombre>chipirón</nombre>
+        <descripcion>chipirón Ria Gallega</descripcion>
+        <origen>España</origen>
+        <perecedero>true</perecedero>
+        <unidadMedida>kg</unidadMedida>
+        <precioVta>12.1</precioVta>
+        <fechaEntrada>18/4/2019 8:00 a.m.</fechaEntrada>
+        <oferta>true</oferta>
+        <periodo>
+          <inicio>23/03/2023</inicio>
+          <fin>27/03/2023</fin>
+        </periodo>
+        <habitual>false</habitual>
+        <cantidad>2</cantidad>
+        <adquirido>true</adquirido>
+      </productos>
+    </supermercadoA>
+    <supermercadoB>
+      <nombre>Mercadona</nombre>
+      <direccion>Calle San Agustin, 15, 15203, Cordoba.</direccion>
+      <geolocalizacion>40º 25&apos;13.2 N</geolocalizacion>
+      <geolocalizacion>12º10&apos;26.5 E</geolocalizacion>
+      <lugar>Córdoba</lugar>
+    </supermercadoB>
+    <supermercadoB>
+      <seccion>fruteria</seccion>
+      <productos>
+        <nombre>cogollos</nombre>
+        <descripcion>cogollos en bandeja de tres unidades</descripcion>
+        <origen>España</origen>
+        <perecedero>true</perecedero>
+        <unidadMedida>1</unidadMedida>
+        <precioVta>3.5</precioVta>
+        <fechaEntrada>18/03/2023 17:00 p.m.</fechaEntrada>
+        <oferta>true</oferta>
+        <periodo>
+          <inicio>23/03/2023</inicio>
+          <fin>27/03/2023</fin>
+        </periodo>
+        <habitual>false</habitual>
+        <cantidad>3</cantidad>
+        <adquirido>true</adquirido>
+      </productos>
+      <productos>
+        <nombre>pera conferencia</nombre>
+        <descripcion>pera conferencia origen Bierzo</descripcion>
+        <origen>España</origen>
+        <perecedero>true</perecedero>
+        <unidadMedida>kg</unidadMedida>
+        <precioVta>1.8</precioVta>
+        <fechaEntrada>23/03/2023 17:00 p.m.</fechaEntrada>
+        <periodo>
+          <inicio>23/03/2023</inicio>
+          <fin>27/03/2023</fin>
+        </periodo>
+        <habitual>true</habitual>
+        <cantidad>2</cantidad>
+        <adquirido>true</adquirido>
+      </productos>
+    </supermercadoB>
+    <supermercadoB>
+      <seccion>pescaderia</seccion>
+      <productos>
+        <nombre>pescadilla</nombre>
+        <descripcion>pescadilla mar del norte</descripcion>
+        <origen>Noruega</origen>
+        <perecedero>true</perecedero>
+        <unidadMedida>kg</unidadMedida>
+        <precioVta>6</precioVta>
+        <fechaEntrada>23/03/2023 17:00 p.m.</fechaEntrada>
+        <periodo>
+          <inicio>23/03/2023</inicio>
+          <fin>27/03/2023</fin>
+        </periodo>
+        <habitual>true</habitual>
+        <cantidad>2</cantidad>
+        <adquirido>true</adquirido>
+      </productos>
+      <productos>
+        <nombre>chipirón</nombre>
+        <descripcion>chipirón Ria Gallega</descripcion>
+        <origen>España</origen>
+        <perecedero>true</perecedero>
+        <unidadMedida>kg</unidadMedida>
+        <precioVta>12.1</precioVta>
+        <fechaEntrada>18/4/2019 8:00 a.m.</fechaEntrada>
+        <oferta>false</oferta>
+        <periodo/>
+        <habitual>true</habitual>
+        <adquirido>false</adquirido>
+      </productos>
+    </supermercadoB>
+  </supermercados>
+</root>

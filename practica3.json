@@ -1,0 +1,175 @@
+
+{
+    "supermercados":
+    {
+        "supermercadoA":[
+            {
+                "nombre": "Supersol",
+                "direccion": "Calle San lazaro, 17, 15203, Cordoba.",
+                "geolocalizacion":[
+                    "41º 24'12.2 N",
+                    "2º10'26.5 E"
+                ],
+                "lugar": "Córdoba"
+            },
+            {
+                "seccion": "fruteria",
+                "productos": [
+                    {
+                        "nombre":"tomate rama",
+                        "descripcion": "tomate rama huerta Murcia",
+                        "origen": "España",
+                        "perecedero": true,
+                        "unidadMedida": "kg",
+                        "precioVta":3.27,
+                        "fechaEntrada": "23/03/2023 17:00 p.m.",
+                        "oferta": true,
+                        "periodo": {
+                            "inicio": "23/03/2023",
+                            "fin": "27/03/2023"
+                          },
+                        "habitual": true,
+                        "cantidad": 2,
+                        "adquirido": true
+                    },
+                    {
+                        "nombre": "pera conferencia",
+                        "descripcion": "pera conferencia origen Bierzo",
+                        "origen": "España", 
+                        "perecedero": true,
+                        "unidadMedida": "kg",
+                        "precioVta": 2.10,
+                        "fechaEntrada": "23/03/2023 17:00 p.m.",
+                        "oferta": false,
+                        "periodo": null,
+                        "habitual": true,
+                        "adquirido": false
+                    }
+                ]
+            },
+
+            {
+                "seccion": "pescaderia",
+                "productos": [
+                    {
+                        "nombre": "pescadilla",
+                        "descripcion": "pescadilla mar del norte",
+                        "origen": "Noruega",
+                        "perecedero": true,
+                        "unidadMedida": "kg",
+                        "precioVta": 7.27,
+                        "fechaEntrada": "23/03/2023 17:00 p.m.",
+                        "oferta": false,
+                        "periodo": null,
+                        "habitual": true,
+                        "adquirido": false
+                     },
+                     {
+                         "nombre": "chipirón",
+                        "descripcion": "chipirón Ria Gallega",
+                        "origen": "España",
+                        "perecedero": true,
+                        "unidadMedida": "kg",
+                        "precioVta": 12.10,
+                        "fechaEntrada": "18/4/2019 8:00 a.m.",
+                        "oferta": true,
+                        "periodo": {
+                            "inicio": "23/03/2023",
+                            "fin": "27/03/2023"
+                          },
+                        "habitual": false,
+                        "cantidad": 2,
+                        "adquirido": true
+                    }
+                ]
+             }
+        ],
+
+        "supermercadoB":[
+            {
+                "nombre": "Mercadona",
+                "direccion": "Calle San Agustin, 15, 15203, Cordoba.",
+                "geolocalizacion":[
+                    "40º 25'13.2 N",
+                    "12º10'26.5 E"
+                ],
+                "lugar": "Córdoba"
+            },
+            {
+                "seccion": "fruteria",
+                "productos": [
+                    {
+                        "nombre":"cogollos",
+                        "descripcion": "cogollos en bandeja de tres unidades",
+                        "origen": "España",
+                        "perecedero": true,
+                        "unidadMedida": "1",
+                        "precioVta":3.50,
+                        "fechaEntrada": "18/03/2023 17:00 p.m.",
+                        "oferta": true,
+                        "periodo": {
+                            "inicio": "23/03/2023",
+                            "fin": "27/03/2023"
+                          },
+                        "habitual": false,
+                        "cantidad": 3,
+                        "adquirido": true
+                    },
+                    {
+                        "nombre": "pera conferencia",
+                        "descripcion": "pera conferencia origen Bierzo",
+                        "origen": "España", 
+                        "perecedero": true,
+                        "unidadMedida": "kg",
+                        "precioVta": 1.80,
+                        "fechaEntrada": "23/03/2023 17:00 p.m.",
+                        "periodo": {
+                            "inicio": "23/03/2023",
+                            "fin": "27/03/2023"
+                          },
+                        "habitual": true,
+                        "cantidad": 2,
+                        "adquirido": true
+                    }
+                ]
+            },
+
+            {
+                "seccion": "pescaderia",
+                "productos": [
+                    {
+                        "nombre": "pescadilla",
+                        "descripcion": "pescadilla mar del norte",
+                        "origen": "Noruega",
+                        "perecedero": true,
+                        "unidadMedida": "kg",
+                        "precioVta": 6.00,
+                        "fechaEntrada": "23/03/2023 17:00 p.m.",
+                        "periodo": {
+                            "inicio": "23/03/2023",
+                            "fin": "27/03/2023"
+                          },
+                        "habitual": true,
+                        "cantidad": 2,
+                        "adquirido": true
+                     },
+                     {
+                         "nombre": "chipirón",
+                        "descripcion": "chipirón Ria Gallega",
+                        "origen": "España",
+                        "perecedero": true,
+                        "unidadMedida": "kg",
+                        "precioVta": 12.10,
+                        "fechaEntrada": "18/4/2019 8:00 a.m.",
+                        "oferta": false,
+                        "periodo": null,
+                        "habitual": true,
+                        "adquirido": false
+                    }
+                ]
+             }
+        ]
+    }
+    
+}
+
